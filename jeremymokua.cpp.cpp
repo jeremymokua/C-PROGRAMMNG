@@ -1,14 +1,9 @@
 //program for finding the salary, years of service and net bonus
 #include <iostream>
-
 using namespace std;
-
 int main() {
-	
 float salary;
-	
 float netBonusAmount=-1;
-	
 int numberYearsWorked;
 	
 cout<<"Enter the salary\endl";
@@ -49,5 +44,4 @@ cout<<"Wrong data\n\n";
 system("pause");
 	
 return 0;
-
 }
